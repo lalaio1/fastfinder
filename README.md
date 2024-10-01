@@ -19,7 +19,7 @@ fastfinder.exe <file/directory> <keyword> <output>
 
 ### Example
 ```bash
-fastfinder.exe "C:\Users\user\Downloads\Telegram Desktop" wp-login output.txt
+fastfinder.exe "C:\Users\user\Downloads\Desktop" login output.txt
 ```
 
 ### Parameters
