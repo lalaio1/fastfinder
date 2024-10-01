@@ -1,5 +1,7 @@
 # FastFinder 🚀
 
+![image](./2a71d3ba_preview_rev_1.png)
+
 FastFinder is a powerful command-line tool designed to quickly search for keywords in `.txt` files within a specified directory. With its multi-threading capabilities, FastFinder can process millions of lines per second, making it ideal for handling large datasets efficiently. 
 
 ## Features 🌟
